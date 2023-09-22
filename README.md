@@ -1,2 +1,2 @@
-# Akademisyon-Otomasyonu
-Üniversite dönemimde , final projesi olarak yaptığım Akademisyenler için bir otomasyon. Sınıflar,Bölümler,Öğrenciler vs oluşturulabilir ve bu öğrencilerin maillerine mail gönderebilir, öğrencilere ait not girişleri yapılabilir ve grafik şeklinde özete dökülebilir
+# Academician Automation
+An automation for academics that I made as a final project during my university years. Classes, Departments, Students, etc. can be created and e-mails can be sent to these students' e-mails, students' notes can be entered and summarized in graphic form.
